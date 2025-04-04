@@ -1,7 +1,7 @@
 # phuctran1501
 # 💫 About Me:
 Hello, I'm Phúc<br>👯 Web Developer - Software Engineering<br>🤝 From Can Tho University<br>🌱 I’m currently learning JS frameworks
-
+Future Job ( Dreaming ): Axon Active 💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/0907.anhiupe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TranTrongPhucB2303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trantrongphuc1501@gmail.com) 
