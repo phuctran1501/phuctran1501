@@ -30,12 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuctran1501&" alt="phuctran1501" /></p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuctran1501/phuctran1501/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuctran1501/phuctran1501/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phuctran1501/phuctran1501/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <picture>
