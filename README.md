@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuctran1501&label=Profile%20views&color=0e75b6&style=flat" alt="phuctran1501" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS Frameworks**
 
 - 👨‍💻 My Dream [Axon Active](https://www.axonactive.com/)
 
