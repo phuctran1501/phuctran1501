@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **trantrongphuc1501@gmail.com**
 
-- ⚡ Fun fact **I think i am funny :D**
+- ⚡ Fun fact **Minecraft Speedrunner :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
