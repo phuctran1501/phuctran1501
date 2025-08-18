@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuctran1501&label=Profile%20views&color=0e75b6&style=flat" alt="phuctran1501" /> </p>
 
-- 🌱 I’m currently learning **JS Frameworks**
+- 🌱 I’m currently learning **JS**
 
-- 👨‍💻 My Dream [Axon Active](https://www.axonactive.com/)
+- 👨‍💻 My Dream [https://www.axonactive.com/](https://www.axonactive.com/)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **trantrongphuc1501@gmail.com**
 
-- ⚡ Fun fact **Minecraft Speedrunner :D**
+- ⚡ Fun fact **I think i am funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ph%c3%bac-tr%e1%ba%a7n-a3a02b2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ph%c3%bac-tr%e1%ba%a7n-a3a02b2bb/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/0907.anhiupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0907.anhiupe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@trantrongphucb2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@trantrongphucb2303" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ph%c3%bac-tr%e1%ba%a7n-a3a02b2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ph%c3%bac-tr%e1%ba%a7n-a3a02b2bb/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/0907.anhiupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0907.anhiupe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@trantrongphucb2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@trantrongphucb2303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,8 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuctran1501&show_icons=true&locale=en&layout=compact" alt="phuctran1501" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuctran1501&show_icons=true&locale=en" alt="phuctran1501" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuctran1501&" alt="phuctran1501" /></p>
 
 
 <picture>
