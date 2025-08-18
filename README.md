@@ -30,13 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuctran1501&" alt="phuctran1501" /></p>
 
 
-<!-- BLOG-POST-LIST:START -->
-- [My 6 months review of Kagi](https://www.cyprien.io/posts/kagi/)
-- [Working with a VR headset](https://www.cyprien.io/posts/vr/)
-- [2024 Review](https://www.cyprien.io/posts/2024/)
-- [Building my small Homelab](https://www.cyprien.io/posts/homelab/)
-- [How I Built My Corner of the Web](https://www.cyprien.io/posts/colophon/)
-<!-- BLOG-POST-LIST:END -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
