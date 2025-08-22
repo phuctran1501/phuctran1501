@@ -1,5 +1,4 @@
 # 💫 About Me: Hi I'm Phúc<br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cc191db1-32c4-4ba9-a143-e19dfec7a730" />
 
 🌱 I’m currently learning JS Frameworks<br><br>💬 Ask me about ANYTHING<br><br>📫 How to reach me : trantrongphuc1501@gmail.com<br><br>👨‍💻 My Dream: https://www.axonactive.com/<br><br>⚡ Fun fact: I can write "Hello World" in C++ :DD<br>
 
