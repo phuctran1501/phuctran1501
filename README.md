@@ -1,6 +1,6 @@
 #                                                                     💫 About Me: Hi I'm Phúc<br>
 
-🌱 I’m currently learning JS Frameworks<br><br>💬 Ask me about ANYTHING<br><br>📫 How to reach me : trantrongphuc1501@gmail.com<br><br>👨‍💻 My Dream: https://www.axonactive.com/<br><br>⚡ Fun fact: I can write "Hello World" in JavaScript :DD<br>
+🌱 I’m currently learning JS Frameworks<br><br>💬 Ask me about ANYTHING<br><br>📫 Reach me : trantrongphuc1501@gmail.com<br><br>👨‍💻 My Dream: https://www.axonactive.com/<br><br>⚡ Fun fact: I can write "Hello World" in JavaScript :DD<br>
 
 
 ## 🌐 Socials:
