@@ -15,8 +15,6 @@ I’m especially interested in writing clean, maintainable code and understandin
 * 🚀  I'm currently working on [CTU-Scheduler](http://github.com/d3nhatv0lam/CTU-Scheduler)
 * 🧠  I'm currently learning C#-React Stack
 
-#Skills
-
 <table>
 <tr>
 <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36"/></a></td>
@@ -55,7 +53,6 @@ I’m especially interested in writing clean, maintainable code and understandin
 
 </tr>
 </table>
-### Socials
 
 <table>
 <tr>
@@ -102,8 +99,6 @@ I’m especially interested in writing clean, maintainable code and understandin
 
 </tr>
 </table>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
