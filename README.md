@@ -99,7 +99,3 @@ I’m especially interested in writing clean, maintainable code and understandin
 
 </tr>
 </table>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/phuctran1501"><img src="https://github-readme-stats.vercel.app/api?username=phuctran1501&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="phuctran1501's GitHub stats" /></a>
