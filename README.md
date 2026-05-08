@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer/ FullStack
 -------------
 
-I have around 4 years of experience in programming, with a strong passion for building practical and efficient applications.
+I have a strong passion for building practical and efficient applications.
 
 Currently, I am focusing on improving my skills in modern technologies such as C# and React, while also exploring how real-world development workflows evolve in the age of AI.
 
