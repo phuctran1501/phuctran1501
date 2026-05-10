@@ -12,7 +12,7 @@ I’m especially interested in writing clean, maintainable code and understandin
 
 * 🌍  I'm based in Can Tho
 * ✉️  You can contact me at [trantrongphuc1501@gmail.com](mailto:trantrongphuc1501@gmail.com)
-* 🚀  I'm currently working on [CTU-Scheduler](http://github.com/d3nhatv0lam/CTU-Scheduler)
+* 🚀  I'm currently working on [CTU-Scheduler](http://github.com/d3nhatv0lam/CTU-Scheduler) and [MouseTodoApp](https://github.com/lhnhidev/MouseTodoApp)
 * 🧠  I'm currently learning C#-React Stack
 
 <table>
