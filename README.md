@@ -10,10 +10,10 @@ Currently, I am focusing on improving my skills in modern technologies such as C
 
 I’m especially interested in writing clean, maintainable code and understanding how professional developers collaborate, ship products, and adapt to new tools and paradigms.
 
-* 🌍  I'm based in Can Tho
+* 🌍  I'm based in Ninh Kieu, Can Tho
 * ✉️  You can contact me at [trantrongphuc1501@gmail.com](mailto:trantrongphuc1501@gmail.com)
 * 🚀  I'm currently working on [CTU-Scheduler](http://github.com/d3nhatv0lam/CTU-Scheduler) and [MouseTodoApp](https://github.com/lhnhidev/MouseTodoApp)
-* 🧠  I'm currently learning C# ASP.NET - React Stack
+* 🧠  I'm currently learning C# ASP.NET - React Stack and more...
 
 <table>
 <tr>
