@@ -47,8 +47,6 @@ I’m especially interested in writing clean, maintainable code and understandin
 
 <td><a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36"/></a></td>
 
-<td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36"/></a></td>
-
 <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/></a></td>
 
 </tr>
