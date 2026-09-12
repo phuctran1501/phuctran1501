@@ -1,99 +1,132 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phúc
-=============================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ph%C3%BAc%20Tr%E1%BA%A7n&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-Web Developer/ FullStack
--------------
+  <h1>Backend Developer | Fullstack Developer</h1>
 
-I have a strong passion for building practical and efficient applications.
+  <p>📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a></p>
+</div>
 
-Currently, I am focusing on improving my skills in modern technologies such as C# and React, while also exploring how real-world development workflows evolve in the age of AI.
+---
 
-I’m especially interested in writing clean, maintainable code and understanding how professional developers collaborate, ship products, and adapt to new tools and paradigms.
+## About Me
 
-* 🌍  I'm based in Ninh Kieu, Can Tho
-* ✉️  You can contact me at [trantrongphuc1501@gmail.com](mailto:trantrongphuc1501@gmail.com)
-* 🚀  I'm currently working on [CTU-Scheduler](http://github.com/d3nhatv0lam/CTU-Scheduler) and [MouseTodoApp](https://github.com/lhnhidev/MouseTodoApp)
-* 🧠  I'm currently learning C# ASP.NET - React Stack and more...
+I'm Phúc, a Computer Science student and aspiring Backend / Fullstack Developer based in Can Tho, Vietnam.
 
-<table>
-<tr>
-<td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36"/></a></td>
+I enjoy building practical, efficient, and maintainable web applications. My current focus is on developing strong backend foundations with **C# and ASP.NET**, while expanding my frontend skills with **React and TypeScript**.
 
-<td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/></a></td>
+I'm also interested in how modern software development workflows are evolving in the age of AI — from writing clean code and designing reliable systems to collaborating, reviewing code, and shipping real-world products.
 
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/></a></td>
+```text
+Backend Development
+        +
+Frontend Development
+        +
+Software Engineering Practices
+        +
+AI-Assisted Development
+        =
+Continuous Growth
+```
 
-<td><a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36"/></a></td>
+* Based in Can Tho, Vietnam
+* Currently learning C# / ASP.NET and React
+* Interested in backend architecture, databases, and fullstack development
+* Exploring practical AI-assisted development workflows
+* Always learning, building, and improving
 
-<td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/></a></td>
+---
 
-<td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36"/></a></td>
+## Tech Stack
 
-<td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/></a></td>
+### Backend
 
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/></a></td>
+<p>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and ASP.NET" />
+  </a>
+</p>
 
-<td><a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36"/></a></td>
+### Frontend
 
-<td><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36"/></a></td>
+<p>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts,react,html,css,js,tailwind" alt="TypeScript React HTML CSS JavaScript TailwindCSS" />
+  </a>
+</p>
 
-<td><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36"/></a></td>
+### Database
 
-<td><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36"/></a></td>
+<p>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB and PostgreSQL" />
+  </a>
+</p>
 
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/></a></td>
+### Tools & Workflow
 
-<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/></a></td>
+<p>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Docker Git GitHub Visual Studio Code" />
+  </a>
+</p>
 
-<td><a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36"/></a></td>
+---
 
-<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/></a></td>
+## Current Projects
 
-</tr>
-</table>
+### CTU-Scheduler
 
-<table>
-<tr>
+A desktop application focused on managing and organizing university schedules.
 
-<td>
-<a href="https://www.github.com/phuctran1501" target="_blank" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
-</picture>
+Built with a focus on practical software architecture, user experience, and maintainable code.
+
+<a href="http://github.com/d3nhatv0lam/CTU-Scheduler">
+  <img src="https://img.shields.io/badge/View%20Project-CTU--Scheduler-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CTU-Scheduler" />
 </a>
-</td>
 
-<td>
-<a href="https://www.linkedin.com/in/ph%c3%bac-tr%e1%ba%a7n-a3a02b2bb" target="_blank" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
-</picture>
+### NewsHub
+
+A news-oriented web application built as part of my journey toward modern fullstack development.
+
+This project helps me practice frontend development, API integration, and building applications with a real-world workflow.
+
+<a href="https://github.com/phuctran1501/NewsHub">
+  <img src="https://img.shields.io/badge/View%20Project-NewsHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View NewsHub" />
 </a>
-</td>
 
-<td>
-<a href="https://www.youtube.com/@trantrongphucb2303" target="_blank" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/>
-</picture>
-</a>
-</td>
+---
 
-<td>
-<a href="https://www.facebook.com/phuctran1501" target="_blank" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/>
-</picture>
-</a>
-</td>
+## Current Focus
 
-</tr>
-</table>
+```text
+C#
+ └── ASP.NET Core
+      └── REST APIs
+           └── PostgreSQL / MongoDB
+                └── React + TypeScript
+                     └── Fullstack Development
+```
+
+I'm currently working on improving my understanding of:
+
+* C# fundamentals, OOP, and clean code
+* ASP.NET Core and REST API development
+* Database design and SQL
+* React and TypeScript
+* Git, GitHub, and collaborative workflows
+* AI-assisted software development
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/phuctran1501)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@trantrongphucb2303)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phuctran1501)
+
+</div>
+<p align="center">
+  <i>Build practical things. Learn continuously. Grow as a developer.</i>
+</p>
