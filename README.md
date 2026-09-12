@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm Phúc, a Computer Science student and aspiring Backend / Fullstack Developer based in Can Tho, Vietnam.
+I'm Phúc, a Software Engineer student and aspiring Backend / Fullstack Developer based in Can Tho, Vietnam.
 
 I enjoy building practical, efficient, and maintainable web applications. My current focus is on developing strong backend foundations with **C# and ASP.NET**, while expanding my frontend skills with **React and TypeScript**.
 
