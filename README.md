@@ -98,7 +98,7 @@ This project helps me practice frontend development, API integration, and buildi
 
 AI-Powered Recruitment and Smart Resume Builder System
 
-<a href="https://github.com/SE-Project-CTU/smart-recruitment-app">
+<a href="https://github.com/SE-Project-CTU">
   <img src="https://img.shields.io/badge/View%20Project-SmartHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartHire" />
 </a>
 
