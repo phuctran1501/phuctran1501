@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ph%C3%BAc%20Tr%E1%BA%A7n&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <h1>Backend Developer | Fullstack Developer</h1>
+  <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=600&color=00c6ff&center=true&vCenter=true&width=700&lines=Backend+Developer+|+Fullstack+Developer;C%23+%7C+React;Building+Ideas+Into+Reality"
+    alt="Typing SVG"
+  />
+</p>
 
   <p>📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a></p>
 </div>
@@ -114,3 +119,15 @@ I'm currently working on improving my understanding of:
 <p align="center">
   <i>Build practical things. Learn continuously. Grow as a developer.</i>
 </p>
+
+---
+
+<p align="center">
+  <i>Build practical things. Learn continuously. Grow as a developer.</i>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:00c6f0,100:00c6f0&height=120&section=footer"
+  width="100%"
+  alt="Gradient Footer"
+/>
