@@ -44,6 +44,7 @@ Continuous Growth
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
 </p>
+
 ## Tech Stack
 
 | Category | Icons | Technologies |
