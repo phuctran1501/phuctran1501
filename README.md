@@ -85,6 +85,13 @@ AI-Powered Recruitment and Smart Resume Builder System
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENT_STATUS-Building_Backend_Systems-00c6ff?style=for-the-badge&logoColor=white&logo=dotnet" />
+  <img src="https://img.shields.io/badge/MINDSET-Clean_Code_%26_Architecture-0072ff?style=for-the-badge&logoColor=white&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/WORKFLOW-AI--Assisted_Development-00d8ff?style=for-the-badge&logoColor=white&logo=github" />
+</p>
+
+---
 ## Current Focus
 
 ```text
