@@ -11,7 +11,9 @@
   <p>📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a></p>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 ## About Me
 
@@ -39,8 +41,9 @@ Continuous Growth
 * Exploring practical AI-assisted development workflows
 * Always learning, building, and improving
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 ## Tech Stack
 
 | Category | Icons | Technologies |
@@ -50,7 +53,10 @@ Continuous Growth
 | **Database & Backend Services** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,redis&theme=dark" height="40" alt="Database and backend services" /> | MongoDB, PostgreSQL, Supabase, Firebase, Redis |
 | **API Documentation & Testing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="36" alt="Swagger" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" /> | Swagger, OpenAPI, Postman |
 | **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,electron&theme=dark" height="40" alt="Development tools" /> | Docker, Git, GitHub, Visual Studio Code, Electron |
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 ## Current Projects
 
@@ -83,7 +89,9 @@ AI-Powered Recruitment and Smart Resume Builder System
 </a>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT_STATUS-Building_Backend_Systems-00c6ff?style=for-the-badge&logoColor=white&logo=dotnet" />
@@ -91,7 +99,9 @@ AI-Powered Recruitment and Smart Resume Builder System
   <img src="https://img.shields.io/badge/WORKFLOW-AI--Assisted_Development-00d8ff?style=for-the-badge&logoColor=white&logo=github" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 ## Current Focus
 
 ```text
@@ -114,7 +124,9 @@ I'm currently working on improving my understanding of:
 
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 ### 🌐 Connect With Me
 
@@ -129,7 +141,9 @@ I'm currently working on improving my understanding of:
   <i>Build practical things. Learn continuously. Grow as a developer.</i>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 <h2 align="center">Contribution Universe</h2>
 
@@ -141,7 +155,9 @@ I'm currently working on improving my understanding of:
   />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
+</p>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:00c6f0,100:00c6f0&height=120&section=footer"
