@@ -8,7 +8,7 @@
   />
 </p>
 
-  <p>📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a></p>
+  <p>📞 0923521277 &nbsp;|&nbsp;📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a></p>
 </div>
 
 <p align="center">
