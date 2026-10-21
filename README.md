@@ -147,22 +147,6 @@ I'm currently working on improving my understanding of:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/phuctran1501">
-    <img height="175"
-      src="https://github-readme-stats.vercel.app/api?username=phuctran1501&show_icons=true&include_all_commits=true&rank_icon=github&title_color=00C6FF&text_color=C9D1D9&icon_color=7B2FF7&bg_color=07111F&border_color=0072FF&border_radius=14"
-      alt="GitHub Statistics" />
-  </a>
-  <img height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuctran1501&layout=compact&langs_count=8&title_color=00C6FF&text_color=C9D1D9&bg_color=07111F&border_color=0072FF&border_radius=14"
-    alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
-</p>
-
 <h2 align="center">Contribution Universe</h2>
 
 <p align="center">
