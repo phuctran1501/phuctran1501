@@ -100,31 +100,6 @@ AI-Powered Recruitment and Smart Resume Builder System
   <img src="https://img.shields.io/badge/WORKFLOW-AI--Assisted_Development-00d8ff?style=for-the-badge&logoColor=white&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
-</p>
-
-## Current Focus
-
-```text
-C#
- └── ASP.NET Core
-      └── REST APIs
-           └── PostgreSQL / MongoDB
-                └── React + TypeScript
-                     └── Fullstack Development
-```
-
-I'm currently working on improving my understanding of:
-
-* C# fundamentals, OOP, and clean code
-* ASP.NET Core and REST API development
-* Database design and SQL
-* React and TypeScript
-* Git, GitHub, and collaborative workflows
-* AI-assisted software development
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
