@@ -136,10 +136,3 @@ AI-Powered Recruitment and Smart Resume Builder System
     alt="Neon Galaxy Contribution Graph"
   />
 </p>
-
-<!-- Space Odyssey Footer -->
-<img
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:00C6FF,45:075985,75:102E65,100:060B20&height=110&section=footer&reversal=true&animation=fadeIn"
-  width="100%"
-  alt="Space Odyssey Footer"
-/>
