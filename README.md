@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ph%C3%BAc%20Tr%E1%BA%A7n&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+ <!-- Space Odyssey Header -->
+<img
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:060B20,45:102E65,75:075985,100:00C6FF&height=220&section=header&text=PH%C3%9AC%20TR%E1%BA%A6N&fontSize=52&fontColor=00c6ff&fontFamily=Fira%20Code&fontAlign=50&fontAlignY=50&animation=fadeIn"
+  width="100%"
+  alt="PHÚC TRẦN"
+/>
 
   <p align="center">
   <img
@@ -132,8 +137,9 @@ AI-Powered Recruitment and Smart Resume Builder System
   />
 </p>
 
+<!-- Space Odyssey Footer -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:00c6f0,100:00c6f0&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:00C6FF,45:075985,75:102E65,100:060B20&height=110&section=footer&reversal=true&animation=fadeIn"
   width="100%"
-  alt="Gradient Footer"
+  alt="Space Odyssey Footer"
 />
