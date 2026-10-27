@@ -28,18 +28,6 @@ I enjoy building practical, efficient, and maintainable web applications. My cur
 
 I'm also interested in how modern software development workflows are evolving in the age of AI — from writing clean code and designing reliable systems to collaborating, reviewing code, and shipping real-world products.
 
-```text
-Backend Development
-        +
-Frontend Development
-        +
-Software Engineering Practices
-        +
-AI-Assisted Development
-        =
-Continuous Growth
-```
-
 * Based in Can Tho, Vietnam
 * Currently learning C# / ASP.NET and React
 * Interested in backend architecture, databases, and fullstack development
