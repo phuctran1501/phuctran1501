@@ -1,5 +1,4 @@
 <div align="center">
- <!-- Space Odyssey Header -->
 <img
   src="https://capsule-render.vercel.app/api?type=blur&color=0:060B20,45:102E65,75:075985,100:00C6FF&height=220&section=header&text=PH%C3%9AC%20TR%E1%BA%A6N&fontSize=52&fontColor=00c6ff&fontFamily=Fira%20Code&fontAlign=50&fontAlignY=50&animation=fadeIn"
   width="100%"
