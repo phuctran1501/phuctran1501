@@ -114,6 +114,21 @@ AI-Powered Recruitment and Smart Resume Builder System
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
 </p>
 
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=phuctran1501&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true&title_color=00C6FF&icon_color=00C6FF"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=phuctran1501&layout=compact&langs_count=8&theme=blue_navy&hide_border=true&title_color=00C6FF"
+    alt="Most Used Languages"
+  />
+</p>
+
 <h2 align="center">Contribution Universe</h2>
 
 <p align="center">
