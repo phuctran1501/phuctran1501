@@ -41,7 +41,7 @@ I'm also interested in how modern software development workflows are evolving in
 
 | Category | Icons | Technologies |
 |:---|:---:|:---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi&theme=dark" height="40" alt="C# .NET  Python" /> | C#, .NET 10, Python, FastAPI |
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,expressjs&theme=dark" height="40" alt="C# .NET  NODEJS" /> | C#, .NET 10, NodeJS, Express.js |
 | **Frontend & UI** | <img src="https://skillicons.dev/icons?i=ts,react,html,css,tailwind,bootstrap&theme=dark" height="40" alt="Frontend technologies" /><br> | TypeScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap |
 | **Database & Backend Services** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,redis&theme=dark" height="40" alt="Database and backend services" /> | MongoDB, PostgreSQL, Supabase, Firebase, Redis |
 | **API Documentation & Testing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="36" alt="Swagger" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" /> | Swagger, OpenAPI, Postman |
