@@ -51,46 +51,41 @@ I'm also interested in how modern software development workflows are evolving in
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
 </p>
 
-## Current Projects
+<h2 align="center">Selected Projects</h2><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/d3nhatv0lam/CTU-Scheduler">
+        <img src="./ctu-scheduler.svg" width="100%" alt="CTU-Scheduler — timetable planner artwork" />
+      </a>
+      <h3>CTU-Scheduler</h3>
+      <sub>DESKTOP APP · RESEARCH PROJECT</sub>
+      <p>Automated timetable planning for CTU students.</p>
+      <sub>C# · .NET 10 · Avalonia UI</sub><br/>
+      <a href="https://github.com/d3nhatv0lam/CTU-Scheduler">↗ Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/phuctran1501/NewsHub">
+        <img src="./newshub.svg" width="100%" alt="NewsHub — AI news platform artwork" />
+      </a>
+      <h3>NewsHub</h3>
+      <sub>FULLSTACK · AI-POWERED</sub>
+      <p>AI-powered news curation, summaries and semantic discovery.</p>
+      <sub>React · TypeScript · ASP.NET Core · PostgreSQL</sub><br/>
+      <a href="https://github.com/phuctran1501/NewsHub">↗ Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SE-Project-CTU/smart-recruitment-app">
+        <img src="./smarthire.svg" width="100%" alt="SmartHire — recruitment platform artwork" />
+      </a>
+      <h3>SmartHire</h3>
+      <sub>TEAM PROJECT · IN DEVELOPMENT</sub>
+      <p>Recruitment platform with CV building and AI-assisted workflows.</p>
+      <sub>My focus: Backend · APIs · Realtime · AI integration</sub><br/>
+      <a href="https://github.com/SE-Project-CTU/smart-recruitment-app">↗ Repository</a>
+    </td>
+  </tr>
+</table>
 
-### CTU-Scheduler
-
-A desktop application focused on managing and organizing university schedules.
-
-Built with a focus on practical software architecture, user experience, and maintainable code.
-
-<a href="http://github.com/d3nhatv0lam/CTU-Scheduler">
-  <img src="https://img.shields.io/badge/View%20Project-CTU--Scheduler-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CTU-Scheduler" />
-</a>
-
-### NewsHub
-
-A news-oriented web application built as part of my journey toward modern fullstack development.
-
-This project helps me practice frontend development, API integration, and building applications with a real-world workflow.
-
-<a href="https://github.com/phuctran1501/NewsHub">
-  <img src="https://img.shields.io/badge/View%20Project-NewsHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View NewsHub" />
-</a>
-
-### SmartHire
-
-AI-Powered Recruitment and Smart Resume Builder System
-
-<a href="https://github.com/SE-Project-CTU">
-  <img src="https://img.shields.io/badge/View%20Project-SmartHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartHire" />
-</a>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:00f2fe&height=6&section=header" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CURRENT_STATUS-Building_Backend_Systems-00c6ff?style=for-the-badge&logoColor=white&logo=dotnet" />
-  <img src="https://img.shields.io/badge/MINDSET-Clean_Code_%26_Architecture-0072ff?style=for-the-badge&logoColor=white&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/WORKFLOW-AI--Assisted_Development-00d8ff?style=for-the-badge&logoColor=white&logo=github" />
-</p>
 
 
 <p align="center">
