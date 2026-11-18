@@ -80,7 +80,7 @@ I'm also interested in how modern software development workflows are evolving in
       <h3>SmartHire</h3>
       <sub>TEAM PROJECT · IN DEVELOPMENT</sub>
       <p>Recruitment platform with CV building and AI-assisted workflows.</p>
-      <sub>My focus: Backend · APIs · Realtime · AI integration</sub><br/>
+      <sub>React · TypeScript · ASP.NET Core · PostgreSQL · Docker</sub><br/>
       <a href="https://github.com/SE-Project-CTU/smart-recruitment-app">↗ Repository</a>
     </td>
   </tr>
