@@ -128,13 +128,3 @@ AI-Powered Recruitment and Smart Resume Builder System
     alt="Most Used Languages"
   />
 </p>
-
-<h2 align="center">Contribution Universe</h2>
-
-<p align="center">
-  <img
-    src="https://gh-heat.anishroy.com/api/phuctran1501/svg?shape=circle&amp;shadow=true&amp;darkMode=true&amp;colors=061E42%2C0077B6%2C00B4D8%2C7B2FF7%2CFF4D9D&amp;cellSize=13&amp;cellGap=3&amp;borderColor=58A6FF&amp;brightness=1.2&amp;saturate=1.5&amp;gradient=07111F%2C0B1B33%2Cdiagonal"
-    width="100%"
-    alt="Neon Galaxy Contribution Graph"
-  />
-</p>
