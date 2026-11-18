@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#091326"/><stop offset="1" stop-color="#17213F"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#53C8FF"/><stop offset="1" stop-color="#8B7CFF"/></linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" stroke="#39466D" stroke-opacity=".28"/></pattern>
+    <filter id="shadow" x="245" y="25" width="500" height="300"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="760" height="340" rx="20" fill="url(#bg)"/><rect width="760" height="340" rx="20" fill="url(#grid)"/>
+  <circle cx="55" cy="310" r="140" fill="#6D5DFB" opacity=".09"/>
+  <text x="42" y="70" fill="#A5A8FF" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">SMARTHIRE · RECRUITMENT</text>
+  <text x="40" y="136" fill="#F3F5FF" font-family="Arial,sans-serif" font-size="35" font-weight="700">Better talent.</text>
+  <text x="40" y="182" fill="#F3F5FF" font-family="Arial,sans-serif" font-size="35" font-weight="700">Smarter teams.</text>
+  <text x="42" y="218" fill="#A8B3CD" font-family="Arial,sans-serif" font-size="14">CV builder · Recruitment workflow · AI</text>
+  <rect x="42" y="247" width="172" height="34" rx="17" fill="#29264F" stroke="#625BC0"/>
+  <text x="128" y="269" fill="#C6C2FF" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle">BACKEND CONTRIBUTOR</text>
+  <rect x="272" y="53" width="444" height="246" rx="14" fill="#000814" opacity=".35" filter="url(#shadow)"/>
+  <rect x="264" y="42" width="444" height="246" rx="14" fill="#101A32" stroke="#3C4771"/>
+  <rect x="264" y="42" width="444" height="36" rx="14" fill="#1B2745"/><path d="M264 63V78H708V63" fill="#1B2745"/>
+  <text x="284" y="65" fill="#E8E9FF" font-family="Arial,sans-serif" font-size="12" font-weight="700">SMART HIRE</text>
+  <rect x="617" y="51" width="71" height="17" rx="8.5" fill="#35305F"/><text x="652" y="63" fill="#C5BEFF" font-family="Arial,sans-serif" font-size="8" text-anchor="middle">CANDIDATE</text>
+  <rect x="284" y="94" width="176" height="174" rx="8" fill="#F5F7FC"/>
+  <rect x="299" y="108" width="34" height="34" rx="17" fill="#DCE6F8"/><circle cx="316" cy="121" r="7" fill="#7186B5"/><path d="M304 137C307 128 325 128 328 137" fill="#7186B5"/>
+  <rect x="343" y="111" width="94" height="7" rx="3.5" fill="#283A5E"/><rect x="343" y="125" width="70" height="5" rx="2.5" fill="#93A2BC"/>
+  <rect x="299" y="156" width="143" height="1" fill="#D4DCE8"/><rect x="299" y="169" width="62" height="6" rx="3" fill="#546887"/><rect x="299" y="183" width="131" height="5" rx="2.5" fill="#BBC6D6"/><rect x="299" y="194" width="119" height="5" rx="2.5" fill="#BBC6D6"/>
+  <rect x="299" y="214" width="40" height="13" rx="6.5" fill="#E1E7F2"/><rect x="345" y="214" width="48" height="13" rx="6.5" fill="#E1E7F2"/><rect x="399" y="214" width="34" height="13" rx="6.5" fill="#E1E7F2"/>
+  <path d="M465 178H493" stroke="#7A83D9" stroke-width="2" stroke-dasharray="4 4"/><path d="M487 172L494 178L487 184" stroke="#7A83D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="503" y="94" width="185" height="174" rx="8" fill="#172746" stroke="#43517E"/>
+  <text x="519" y="119" fill="#CAD4F5" font-family="Arial,sans-serif" font-size="10" font-weight="700">PROFILE MATCH</text>
+  <circle cx="596" cy="175" r="40" stroke="#35466B" stroke-width="9"/><circle cx="596" cy="175" r="40" stroke="url(#violet)" stroke-width="9" stroke-linecap="round" stroke-dasharray="205 252" transform="rotate(-90 596 175)"/>
+  <text x="596" y="181" fill="#F2F2FF" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">82%</text>
+  <text x="596" y="231" fill="#9EADD0" font-family="Arial,sans-serif" font-size="9" text-anchor="middle">Skills · Experience · Role</text>
+  <rect x="519" y="243" width="154" height="5" rx="2.5" fill="#344667"/><rect x="519" y="243" width="108" height="5" rx="2.5" fill="url(#violet)"/>
+</svg>

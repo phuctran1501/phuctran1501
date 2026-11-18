@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#071426"/><stop offset="1" stop-color="#102B3D"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00C6FF"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#4A7185" opacity=".34"/></pattern>
+    <filter id="shadow" x="245" y="25" width="500" height="300"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="760" height="340" rx="20" fill="url(#bg)"/><rect width="760" height="340" rx="20" fill="url(#dots)"/>
+  <circle cx="95" cy="320" r="150" fill="#00A6A6" opacity=".08"/>
+  <text x="42" y="70" fill="#71E3D2" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">NEWSHUB · AI NEWS PLATFORM</text>
+  <text x="40" y="136" fill="#F3F8FF" font-family="Arial,sans-serif" font-size="36" font-weight="700">Less noise.</text>
+  <text x="40" y="182" fill="#F3F8FF" font-family="Arial,sans-serif" font-size="36" font-weight="700">More signal.</text>
+  <text x="42" y="218" fill="#9FB5CB" font-family="Arial,sans-serif" font-size="14">Summarize · Categorize · Discover</text>
+  <rect x="42" y="247" width="154" height="34" rx="17" fill="#103B45" stroke="#1A817B"/>
+  <text x="119" y="269" fill="#9AF5E2" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle">REACT  /  ASP.NET</text>
+  <rect x="272" y="53" width="444" height="246" rx="14" fill="#000814" opacity=".35" filter="url(#shadow)"/>
+  <rect x="264" y="42" width="444" height="246" rx="14" fill="#0B1D31" stroke="#31516D"/>
+  <rect x="264" y="42" width="444" height="36" rx="14" fill="#122B45"/><path d="M264 63V78H708V63" fill="#122B45"/>
+  <text x="284" y="65" fill="#E2F6F8" font-family="Arial,sans-serif" font-size="12" font-weight="700">NewsHub</text>
+  <rect x="625" y="52" width="62" height="16" rx="8" fill="#123F45"/><text x="656" y="63" fill="#73E6CF" font-family="Arial,sans-serif" font-size="8" text-anchor="middle">FOR YOU</text>
+  <rect x="282" y="93" width="190" height="178" rx="8" fill="#102A40" stroke="#284A64"/>
+  <rect x="294" y="105" width="166" height="66" rx="5" fill="#17445A"/>
+  <path d="M302 158L331 128L354 148L378 119L452 171H302Z" fill="#1B7383" opacity=".8"/><circle cx="426" cy="123" r="8" fill="#64D9CB" opacity=".8"/>
+  <rect x="294" y="181" width="88" height="7" rx="3.5" fill="#E5F4F8"/><rect x="294" y="194" width="145" height="5" rx="2.5" fill="#6C8CA4"/><rect x="294" y="205" width="132" height="5" rx="2.5" fill="#6C8CA4"/><rect x="294" y="229" width="47" height="14" rx="7" fill="#164C54"/><text x="317" y="239" fill="#8DE8D6" font-family="Arial,sans-serif" font-size="7" text-anchor="middle">TECH</text>
+  <rect x="484" y="93" width="207" height="178" rx="8" fill="#0D2639" stroke="#28606A"/>
+  <rect x="498" y="107" width="80" height="18" rx="9" fill="#10474A"/><circle cx="510" cy="116" r="4" fill="#4BE1C2"/><text x="543" y="120" fill="#92F1DE" font-family="Arial,sans-serif" font-size="8" font-weight="700" text-anchor="middle">AI SUMMARY</text>
+  <text x="499" y="151" fill="#E5F8F7" font-family="Arial,sans-serif" font-size="12" font-weight="700">The key takeaways</text>
+  <rect x="499" y="163" width="174" height="6" rx="3" fill="#54788C"/><rect x="499" y="176" width="160" height="6" rx="3" fill="#54788C"/><rect x="499" y="189" width="168" height="6" rx="3" fill="#54788C"/>
+  <rect x="499" y="211" width="174" height="1" fill="#285065"/>
+  <circle cx="506" cy="230" r="3" fill="#38D9B6"/><rect x="516" y="227" width="112" height="5" rx="2.5" fill="#9AB8C7"/>
+  <circle cx="506" cy="245" r="3" fill="#38D9B6"/><rect x="516" y="242" width="142" height="5" rx="2.5" fill="#9AB8C7"/>
+</svg>
