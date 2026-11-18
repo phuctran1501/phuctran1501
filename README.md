@@ -113,9 +113,9 @@ I'm also interested in how modern software development workflows are evolving in
 
 <p align="center">
   <img
-    height="180"
+    height="165"
     src="https://github-stats-extended.vercel.app/api?username=phuctran1501&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true&title_color=00C6FF&icon_color=00C6FF"
-    alt="GitHub Stats"
+    alt="Stats"
   />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=phuctran1501&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&title_color=00C6FF" alt="Most Used Languages" />
 </p>
