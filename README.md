@@ -70,7 +70,7 @@ I'm also interested in how modern software development workflows are evolving in
       <h3>NewsHub</h3>
       <sub>FULLSTACK · AI-POWERED</sub>
       <p>AI-powered news curation, summaries and semantic discovery.</p>
-      <sub>React · TypeScript · ASP.NET Core · PostgreSQL</sub><br/>
+      <sub>React · TypeScript · .NET 10 · PostgreSQL · Docker</sub><br/>
       <a href="https://github.com/phuctran1501/NewsHub">↗ Repository</a>
     </td>
     <td width="33%" valign="top">
@@ -80,7 +80,7 @@ I'm also interested in how modern software development workflows are evolving in
       <h3>SmartHire</h3>
       <sub>TEAM PROJECT · IN DEVELOPMENT</sub>
       <p>Recruitment platform with CV building and AI-assisted workflows.</p>
-      <sub>React · TypeScript · ASP.NET Core · PostgreSQL</sub><br/>
+      <sub>React · TypeScript · .NET 10 · PostgreSQL · Docker</sub><br/>
       <a href="https://github.com/SE-Project-CTU/smart-recruitment-app">↗ Repository</a>
     </td>
   </tr>
