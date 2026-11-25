@@ -12,7 +12,7 @@
   />
 </p>
 
-  <p>📞 0923521277 &nbsp;|&nbsp;📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a>  </p> <p>👤Portfolio: https://phuctran1501.github.io/my-profile/ </p>
+  <p>📞 0923521277 &nbsp;|&nbsp;📍 Ninh Kieu, Can Tho, Vietnam &nbsp;|&nbsp; ✉️ <a href="mailto:trantrongphuc1501@gmail.com">trantrongphuc1501@gmail.com</a>  </p> <p>👤Portfolio: https://phuctran1501-profile.vercel.app/ </p>
 </div>
 
 <p align="center">
